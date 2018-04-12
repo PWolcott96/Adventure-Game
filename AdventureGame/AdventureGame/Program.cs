@@ -3,7 +3,10 @@
 /*Website to be used
 Produced by Parker Wolcott
 Last Updated Apr. 12 2018
-http://programmingisfun.com/learn/c-sharp-adventure-game/c_sharp_04_input/
+http://programmingisfun.com/learn/c-sharp-adventure-game/
+
+    Current Spot
+    http://programmingisfun.com/learn/c-sharp-adventure-game/c_sharp_07_conditional_statements/
 */
 
 namespace AdventureGame
