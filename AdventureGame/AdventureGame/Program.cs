@@ -31,6 +31,7 @@ namespace AdventureGame
             #endregion Choise 2
 
             "After you leave the girl, you continue along your path and encounter an old building that looks abandon",
+
         };
 
         static string[] PartTwo = {
